@@ -1,0 +1,15 @@
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\bin\Debug\net10.0\Vetores.exe
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\bin\Debug\net10.0\Vetores.deps.json
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\bin\Debug\net10.0\Vetores.runtimeconfig.json
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\bin\Debug\net10.0\Vetores.dll
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\bin\Debug\net10.0\Vetores.pdb
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\Vetores.AssemblyInfo.cs
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\Vetores.sourcelink.json
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\Vetores.dll
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\refint\Vetores.dll
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\Vetores.pdb
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\Vetores.genruntimeconfig.cache
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Atividades Vetores\Vetores\obj\Debug\net10.0\ref\Vetores.dll

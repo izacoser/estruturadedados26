@@ -1,0 +1,15 @@
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.AssemblyInfo.cs
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.sourcelink.json
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.exe
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.deps.json
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.runtimeconfig.json
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.dll
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.pdb
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.dll
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\refint\Matrizes.dll
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.pdb
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.genruntimeconfig.cache
+C:\Users\460498\Downloads\Vetores\estruturadedados26\Matrizes\Matrizes\obj\Debug\net10.0\ref\Matrizes.dll
