@@ -1,0 +1,15 @@
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\Pilhas.AssemblyInfoInputs.cache
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\Pilhas.AssemblyInfo.cs
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\Pilhas.sourcelink.json
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\bin\Debug\net10.0\Pilhas.exe
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\bin\Debug\net10.0\Pilhas.deps.json
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\bin\Debug\net10.0\Pilhas.runtimeconfig.json
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\bin\Debug\net10.0\Pilhas.dll
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\bin\Debug\net10.0\Pilhas.pdb
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\Pilhas.dll
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\refint\Pilhas.dll
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\Pilhas.pdb
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\Pilhas.genruntimeconfig.cache
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Pilhas\obj\Debug\net10.0\ref\Pilhas.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Torre de Hanoi/1.0.0": {
+        "runtime": {
+          "Torre de Hanoi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Torre de Hanoi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

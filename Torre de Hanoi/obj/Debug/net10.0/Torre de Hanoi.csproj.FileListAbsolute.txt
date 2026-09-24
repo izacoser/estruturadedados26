@@ -1,0 +1,15 @@
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\bin\Debug\net10.0\Torre de Hanoi.exe
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\bin\Debug\net10.0\Torre de Hanoi.deps.json
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\bin\Debug\net10.0\Torre de Hanoi.runtimeconfig.json
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\bin\Debug\net10.0\Torre de Hanoi.dll
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\bin\Debug\net10.0\Torre de Hanoi.pdb
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\Torre de Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\Torre de Hanoi.AssemblyInfoInputs.cache
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\Torre de Hanoi.AssemblyInfo.cs
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\Torre de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\Torre de Hanoi.sourcelink.json
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\Torre de Hanoi.dll
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\refint\Torre de Hanoi.dll
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\Torre de Hanoi.pdb
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\Torre de Hanoi.genruntimeconfig.cache
+C:\Users\460498\Desktop\estruturadedados\estruturadedados26\Torre de Hanoi\obj\Debug\net10.0\ref\Torre de Hanoi.dll
